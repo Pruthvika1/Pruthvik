@@ -1,0 +1,3 @@
+# Reflection
+
+This project evolved as I integrated LLM suggestions...

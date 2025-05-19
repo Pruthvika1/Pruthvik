@@ -1,0 +1,7 @@
+
+# References
+
+- Quarto Docs. (n.d.). Retrieved from https://quarto.org/docs/
+- Spreed.chat. (n.d.). https://spreed.chat/
+- OpenAI. (2024). ChatGPT Output used for brainstorming and drafting.
+- APA Style Guide. (2020). 7th Edition.
